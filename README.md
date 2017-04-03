@@ -1,6 +1,6 @@
 # Personal Cryptography Identities
 
-** Last modified date: 2017-4-4 **
+**Last modified date: 2017-4-4**
 
 ## GPG Key Fingerprint
 ```
