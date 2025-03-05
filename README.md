@@ -1,8 +1,8 @@
 # Personal Cryptography Identities
 
-![](https://img.shields.io/badge/status-valid-brightgreen.svg)
+![](https://img.shields.io/badge/status-invalid-red.svg)
 
-**Last modified date: 2017-4-4**
+**Last modified date: 2025-3-5**
 
 ## GPG Key Fingerprint
 ```
